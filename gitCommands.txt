@@ -1,6 +1,6 @@
 git init
 git add .
 git commit -m "Random"
-git LINK
+git remote add origin LINK
 git push -u origin master
 git pull origin master
