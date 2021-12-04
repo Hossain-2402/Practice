@@ -1,1 +1,9 @@
-Assalamu'alaikum everyone ,how are you all?
+#include<stdio.h>
+using namespace std;
+
+int main(){
+	int counter = 0;
+		
+	cout << endl << counter << endl;
+	
+}
