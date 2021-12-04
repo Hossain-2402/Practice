@@ -5,5 +5,9 @@ int main(){
 	int counter = 0;
 		
 	cout << endl << counter << endl;
-	
+
+	cout << "Assalamu'alaikum, how are you??"<< endl ;	
 }
+
+
+
