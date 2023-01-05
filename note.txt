@@ -6,7 +6,8 @@ int main(){
 		
 	cout << endl << counter << endl;
 
-	cout << "Assalamu'alaikum, how are you??"<< endl ;	
+	cout << "Assalamu'alaikum, how are you??"<< endl ;
+	cout << " Yes I am here" << endl;
 }
 
 
